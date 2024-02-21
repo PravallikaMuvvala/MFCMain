@@ -17,4 +17,4 @@ public:
 	}
 };
 
-myapp obj;
+myapp obj1;
